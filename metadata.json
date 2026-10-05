@@ -1,0 +1,6 @@
+{
+  "name": "Projeto 90 - Landing Page",
+  "description": "Landing page de alta conversão para o Projeto 90 na Academia Inspire com 50% OFF e vagas limitadas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
